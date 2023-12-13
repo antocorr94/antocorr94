@@ -42,6 +42,8 @@ Check out my [Portfolio](https://troopl.com/antonellacorreale) to see some of my
 
 I'm always open to collaboration and learning from fellow developers. Feel free to reach out to me for discussions, collaborations, or just to say hi!
 
-[LinkedIn](https://www.linkedin.com/in/antonella-correale/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonella-correale/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/antocorr_/)
 
 Thanks for stopping by! ✨
+
