@@ -1,6 +1,7 @@
-# Hi there! 👋 I'm Antonella, a 29-year-old Full Stack Developer and Graphic Designer from Italy ✨
+# Hi there! 
+## 👋 I'm Antonella, a 29-year-old Full Stack Developer and Graphic Designer from Italy ✨
 
-🚀 Welcome to my GitHub profile! I recently completed a web development bootcamp, and I'm passionate about creating immersive and visually stunning web experiences from the frontend to the backend. With a background of 7 years in video making and graphic design, I bring a unique blend of creativity and technical skills to the world of full-stack development.
+🚀 Welcome to my GitHub profile! I recently completed a Web Development Bootcamp at Le Wagon Lisbon, and I'm passionate about creating immersive and visually stunning web experiences from the frontend to the backend. With a background of 7 years in video making and graphic design, I bring a unique blend of creativity and technical skills to the world of full-stack development.
 
 ## 🌐 Web Development Journey
 
